@@ -2,8 +2,8 @@
 
 // Strings
 
-$nome = "Edilson";
-echo $nome, "<br>";
+$name = "Lucas";
+echo $name, "<br>";
 
 // Número inteiro
 
